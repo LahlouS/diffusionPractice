@@ -5,4 +5,6 @@ One of the main goals of my internship at PMU was to study the application of di
 
 ### results on the helloWorldDiffusion code
 
-[imageDiff](Imgs/diffusion_model.png)
+<p align="center">
+  <img src="Imgs/diffusion_model.png" alt="Image 1" width="200" style="margin-right: 10px;"/>
+</p>
