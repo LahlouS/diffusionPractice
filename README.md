@@ -5,4 +5,4 @@ One of the main goals of my internship at PMU was to study the application of di
 
 ### results on the helloWorldDiffusion code
 
-[imageDiff](imgs/diffusion_model.png)
+[imageDiff](Imgs/diffusion_model.png)
